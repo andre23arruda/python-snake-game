@@ -1,4 +1,5 @@
 # Snake game with pygame
+![Snake Game](snake_1.png?raw=true "Title")
 
 A little project using pygame
 
